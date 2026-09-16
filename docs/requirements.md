@@ -32,3 +32,16 @@ Answer: Finn is a small robotic companion that responds to intentional user inte
 
 ### 11. How will the user give Finn input?
 Answer: TBD
+
+## Functional Requirements
+
+### Core Requirements
+
+- FR-01: Finn shall display animated eyes capable of showing multiple expressions.
+- FR-02: Finn shall produce robotic sounds as part of its responses.
+- FR-03: Finn shall use LEDs as part of its responses.
+- FR-04: Finn shall have limited physical movement for expressive purposes.
+- FR-05: Finn shall accept intentional physical input from the user.
+- FR-06: Finn shall respond to user input using combinations of facial expression, light, sound, and movement.
+- FR-07: Finn shall operate its primary functions without an internet connection.
+- FR-08: Finn shall operate using rechargeable battery power.
