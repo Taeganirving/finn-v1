@@ -29,3 +29,6 @@ Answer: Finn's personality will be expressed through facial expressions, lights,
 
 ### 10. What is the defining feature of Finn?
 Answer: Finn is a small robotic companion that responds to intentional user interactions with expressive, personality-driven responses through its face, lights, sounds, and movement.
+
+### 11. How will the user give Finn input?
+Answer: TBD
