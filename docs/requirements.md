@@ -45,3 +45,24 @@ Answer: TBD
 - FR-06: Finn shall respond to user input using combinations of facial expression, light, sound, and movement.
 - FR-07: Finn shall operate its primary functions without an internet connection.
 - FR-08: Finn shall operate using rechargeable battery power.
+
+## Constraints
+
+- Finn must be small enough to comfortably sit on a desk.
+- Finn must contain its primary hardware within its enclosure.
+- Finn must not continuously listen to the user.
+- Finn must not require an internet connection for its core functionality.
+- Finn must not autonomously navigate its environment.
+- Finn's interactions must be initiated intentionally by the user.
+
+## Out of Scope
+
+Finn v1.0 will not:
+
+- Walk or drive.
+- Navigate autonomously.
+- Continuously listen to audio.
+- Record the user.
+- Recognize individual people.
+- Manipulate or pick up objects.
+- Function as a general-purpose voice assistant.
